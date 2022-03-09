@@ -1,0 +1,8 @@
+i
+for i in range(1000,9999)
+    str(i)
+    i=str(i)
+    i=i[1:]=6000
+dosya = open('sifreler.txt', 'w')
+dosya.write("i")
+dosya.close()
