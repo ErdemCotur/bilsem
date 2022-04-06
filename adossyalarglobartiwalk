@@ -1,0 +1,23 @@
+ 
+import os
+import glob
+
+tane = 0
+
+for koklasor,altklasorler,dosyalar in os.walk("C:/Users/ogr9/Desktop"):
+    for dosya in globlu :
+        globlu=glob.glob(koklasor + "a??.txt") 
+        print(globlu)
+  #for dosyalarn in dosyalar:
+   #     if dosyalarn.endswith(".txt") :
+    #        if dosyalarn not in dosyalar :
+     #           print(dosyalarn)
+      #          
+#print(tane)
+
+
+
+
+
+  
+    
